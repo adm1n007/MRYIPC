@@ -64,3 +64,7 @@ MRYIPC also allows for block-based servers for more simple callbacks where you d
 
 ## Credits
 Feel free to follow me on Twitter [@Muirey03](https://twitter.com/muirey03). If you have any contributions you want to make to this, please submit a Pull Request.
+
+
+####
+要记得先chmod 0755 postinst
